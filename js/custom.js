@@ -52,7 +52,7 @@ $(document).ready(function(){
     });
 	//slick slider
 	$('.item').slick({
-	  dots: true,
+	  // dots: true,
 	  speed:2000,
 	  slidesToShow:1,
 	  autoplay: true,
