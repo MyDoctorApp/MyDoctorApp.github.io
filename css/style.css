@@ -93,7 +93,7 @@ section{
 ======================================*/
 header{
 	/*background-color: #6600cc;*/
-	background-color: #4dc4d0;
+	background-color: #007ABA;
 	min-height: 10px;
 	position: fixed;
 	top: 0px;
@@ -606,8 +606,7 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 	min-height:400px;
 	padding-top: 120px;
 	text-align: center;
-	background: url('../images/videobg2.png') center center;
-	background-size: cover;
+	background-color: #007ABA;
 }
 #video h2{
 	color: #fefeff;
@@ -619,7 +618,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 #video p{
 	color: #fefeff;
 	font-size: 16px;
-	text-transform:capitalize;
 	margin-bottom: 50px;
 	line-height: 25px;
 }
@@ -2190,7 +2188,7 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 		===[footer Style ]===
 ======================================*/
 footer{
-	background-color: #6600cc;
+	background-color: #007ABA;
 	min-height: 50px;
 }
 footer span{
@@ -2295,8 +2293,7 @@ footer .social ul li{
 ======================================*/
 #intro2{
 	min-height: 660px;
-	background: url('../images/introbgimg.png') center center;
-	background-size: cover;
+	background-color: #007ABA;
 	text-align:left;
 	position: relative;
 	z-index:1;
@@ -2307,7 +2304,7 @@ footer .social ul li{
 	width:100%;
 	content:"";
 	top: 0;
-	background: #6600cc;
+	background: #007ABA;
 	opacity:.88;
 	z-index:-1;
 }
@@ -2517,8 +2514,7 @@ footer .social ul li{
 ======================================*/
 #video2{
 	min-height:450px;
-	background: url('../images/videobg2.png') center center;
-	background-size: cover;
+	background-color: #007ABA;
 }
 #video2 h2{
 	color: #fefeff;
@@ -2531,7 +2527,6 @@ footer .social ul li{
 #video2 p{
 	color: #fefeff;
 	font-size: 16px;
-	text-transform:capitalize;
 	margin-bottom: 80px;
 	text-align: left;
 	margin-left: 2px;
