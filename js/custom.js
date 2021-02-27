@@ -1,13 +1,7 @@
 $(document).ready(function(){
-	//preloader
-	$(window).load(function() { // makes sure the whole site is loaded
-		  $('#status').fadeOut(); // will first fade out the loading animation
-		  $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
-		  $('body').delay(350).css({'overflow':'visible'});
-		})
 	//smoothScroll
 	  smoothScroll.init();
-	  //Scroll Spy		
+	  //Scroll Spy
 	  $('body').scrollspy({ target: '.navbar' })
 	//0wl-caurosel
 	  $(".owl-carousel").owlCarousel(
@@ -20,7 +14,7 @@ $(document).ready(function(){
 		lazyload:true,
 		slideSpeed:5000,
 		paginationSpeed:5000,
-		rewindSpeed:5000,	
+		rewindSpeed:5000,
 		navigation :true,
 		pagination:true,
 		autoplay:true,
@@ -36,8 +30,8 @@ $(document).ready(function(){
 				items:5
 			}
 		}
-	}	  
-	  );   
+	}
+	  );
 	//video popup
     $('.all-video-btn a').magnificPopup({
         type: 'iframe',
@@ -64,6 +58,5 @@ $(document).ready(function(){
 	  autoplay: true,
 	  autoplaySpeed:2500,
 	  adaptiveHeight: false
-
-	});  
+	});
 });
