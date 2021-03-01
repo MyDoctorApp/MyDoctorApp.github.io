@@ -1,1 +1,1 @@
-# MyDoctorApp.github.io
+# Medicus landing page
