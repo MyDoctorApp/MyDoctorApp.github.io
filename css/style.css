@@ -153,7 +153,6 @@ nav.navbar ul.navbar-nav li{
 	padding: 0px 18px;
 }
 nav.navbar ul.navbar-nav li a{
-	text-transform: capitalize;
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	color: #f8f9fa;
@@ -354,7 +353,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 	font-weight: 400;
 	font-size: 18px;
 	font-family: 'Roboto', sans-serif;
-	text-transform:capitalize;
 	margin-bottom: 20px;
 	margin-top: 30px;
 	text-align: left;
@@ -401,7 +399,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 	font-weight: 400;
 	font-size: 18px;
 	font-family: 'Roboto', sans-serif;
-	text-transform:capitalize;
 	margin-bottom: 20px;
 	margin-top: 30px;
 	text-align: left;
@@ -456,7 +453,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 	font-weight: 400;
 	font-size: 18px;
 	font-family: 'Roboto', sans-serif;
-	text-transform:capitalize;
 	margin-bottom: 20px;
 	margin-top: 30px;
 	text-align: left;
@@ -507,7 +503,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 	font-weight: 400;
 	font-size: 18px;
 	font-family: 'Roboto', sans-serif;
-	text-transform:capitalize;
 	margin-bottom: 20px;
 	margin-top: 30px;
 	text-align: left;
@@ -580,7 +575,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 }
 #available-all p{
 	color: #5b5b5b;
-	text-transform:capitalize;
 	margin-bottom: 80px;
 	font-size: 16px;
 	line-height: 25px;
@@ -607,7 +601,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 }
 #screenshot p{
 	color: #606060;
-	text-transform:capitalize;
 	margin-bottom: 120px;
 	font-size:16px;
 	line-height: 25px;
@@ -641,7 +634,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 }
 #available p{
 	color: #fefeff;
-	text-transform:capitalize;
 	margin-bottom: 80px;
 	font-size: 16px;
 	line-height: 25px;
@@ -665,7 +657,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 }
 #pricing p{
 	color: #606060;
-	text-transform:capitalize;
 	margin-bottom: 80px;
 	font-size: 16px;
 	line-height: 25px;
@@ -701,7 +692,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 	color: #313131;
 	font-size: 23px;
 	font-weight: 400;
-	text-transform:capitalize;
 	text-align: center;
 	margin-bottom: 25px;
 	position: relative;
@@ -733,7 +723,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 	color: #898989;
 	font-size: 15px;
 	text-align: center;
-	text-transform:capitalize;
 	margin-bottom: 25px;
 }
 #pricing .col3a:before{
@@ -841,7 +830,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 	color: #898989;
 	font-size: 15px;
 	text-align: center;
-	text-transform:capitalize;
 	margin-bottom: 25px;
 }
 #pricing .col3b:before{
@@ -947,7 +935,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 	color: #898989;
 	font-size: 15px;
 	text-align: center;
-	text-transform:capitalize;
 	margin-bottom: 25px;
 }
 #pricing .col3c span{
@@ -1034,7 +1021,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 	color: #fff;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
-	text-transform: capitalize;
 	font-size: 13px;
 	font-weight: 500;
 	border: 1px solid #6b00fe;
@@ -1081,7 +1067,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 	color: #fff;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
-	text-transform: capitalize;
 	font-size: 13px;
 	font-weight: 500;
 	border: 1px solid #6b00fe;
@@ -1128,7 +1113,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 	color: #fff;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
-	text-transform: capitalize;
 	font-size: 13px;
 	font-weight: 500;
 	border: 1px solid #6b00fe;
@@ -1158,13 +1142,11 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 #subscribe p{
 	color: #606060;
 	font-size: 16px;
-	text-transform:capitalize;
 	margin-bottom: 80px;
 	line-height: 25px;
 }
 #subscribe form input[type=email]{
 	border: none;
-	text-transform:capitalize;
 	border: 1px solid #6b00fe;
 	background: transparent;
 	padding: 10px 16px;
@@ -1200,7 +1182,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 #contact p{
 	color: #606060;
 	font-size: 16px;
-	text-transform:capitalize;
 	margin-bottom: 80px;
 	line-height: 25px;
 }
@@ -1217,13 +1198,11 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 #contact form input[type=text]{
 	border: 1px solid #007ABA;
 	background: url('../images/name.png') no-repeat 12px 15px;
-	text-transform:capitalize;
 	font-size: 15px;
 	padding: 12px 30px;
 	width: 100%;
 }
 #contact form input[type=email]{
-	text-transform:capitalize;
 	border: 1px solid #007ABA;
 	background: url('../images/mail.png') no-repeat 12px 15px;
 	font-size: 15px;
@@ -1233,7 +1212,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 #contact form input[type=number]{
 	border: 1px solid #007ABA;
 	background:url('../images/phn.png') no-repeat 13px 19px;
-	text-transform:capitalize;
 	font-size: 15px;
 	padding: 12px 30px;
 	width: 100%;
@@ -1241,7 +1219,6 @@ nav.navbar ul.navbar-nav li a:focus,nav.navbar ul.navbar-nav li a:hover{
 #contact form textarea{
 	border: 1px solid #007ABA;
 	background: url('../images/msg.png') no-repeat 5px 14px;
-	text-transform:capitalize;
 	padding-left: 25px;
 	padding-top: 12px;
 	font-size: 15px;
@@ -1283,7 +1260,6 @@ footer span{
 	color: #fefeff;
 	font-weight: 400;
 	font-size: 14px;
-	text-transform:capitalize;
 	margin-top: 45px;
 	margin-left: 10px;
 	position: relative;
@@ -1490,7 +1466,6 @@ footer .social ul li{
 #feature2 p{
 	color: #606060;
 	font-size: 16px;
-	text-transform:capitalize;
 	margin-bottom: 80px;
 	line-height: 25px;
 }
@@ -1525,12 +1500,10 @@ footer .social ul li{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	font-size: 18px;
-	text-transform:capitalize;
 	margin-bottom: 20px;
 }
 #feature2 .features-text p{
 	color: #5b5b5b;
-	text-transform:capitalize;
 	font-size: 13px;
 	line-height: 20px;
 }
